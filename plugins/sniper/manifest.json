@@ -8,6 +8,7 @@
         }
     ],
     "main": "src/index.ts",
+    "settings": "src/settings.tsx"
     "vendetta": {
         "icon": "ic_badge_staff"
     }
